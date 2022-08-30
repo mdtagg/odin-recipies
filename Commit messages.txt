@@ -1,0 +1,6 @@
+Alt attribute added to img element in index.html
+Paragraph element added to index.html for recipie description 
+Ingredients heading element added to index.html
+Unordered list with recipie ingredients added to index.html
+Steps heading element added to index.html
+Ordered list added under steps element in index.html
